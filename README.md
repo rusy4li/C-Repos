@@ -1,2 +1,2 @@
-# C-Repos
+# C#-Repos
 C# Kullanarak yaptığım programlar
