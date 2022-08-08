@@ -1,0 +1,11 @@
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\obj\Debug\Rs4 Dork Maker.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\obj\Debug\Rs4 Dork Maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\obj\Debug\Rs4_Dork_Maker.Properties.Resources.resources
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\obj\Debug\Rs4 Dork Maker.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\obj\Debug\Rs4 Dork Maker.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\bin\Debug\Rs4 Dork Maker.exe.config
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\bin\Debug\Rs4 Dork Maker.exe
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\bin\Debug\Rs4 Dork Maker.pdb
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\obj\Debug\Rs4 Dork Maker.exe
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\obj\Debug\Rs4 Dork Maker.pdb
+C:\Users\burak\source\repos\Rs4 Dork Maker\Rs4 Dork Maker\obj\Debug\Rs4_Dork_Maker.Form.resources
