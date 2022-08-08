@@ -4,6 +4,7 @@
 ```markdown
 # Özellikler
 -> C# ile kodlanmış olup kolay bir arayüze sahip!
+-> Geliştirilme aşamasındadır!
 ```
 
 
